@@ -722,8 +722,8 @@ document.addEventListener('DOMContentLoaded', () => {
   // Log init in development
   if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
     console.log(
-      '%c✦ New Balance %c— Luxury Furniture Website v1.0 %cLoaded ✓',
-      'color: #FFB300; font-weight: bold; font-size: 14px;',
+      '%c✦ Meuble Galaxy Plus %c— Luxury Furniture Website v1.0 %cLoaded ✓',
+      'color: #D4AF37; font-weight: bold; font-size: 14px;',
       'color: #888; font-size: 12px;',
       'color: #4CAF50; font-size: 12px;'
     );
