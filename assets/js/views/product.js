@@ -109,7 +109,7 @@ const renderProduct = (id) => {
             <div>
               <h3 style="color: var(--color-gold); margin-bottom: 1rem;">Description Complète</h3>
               <p style="color: #ccc; line-height: 1.8; margin-bottom: 1.5rem;">
-                Le modèle <strong>${product.name}</strong> représente le summum du savoir-faire de Meuble Galaxy Plus. 
+                Le modèle <strong>${product.name}</strong> représente le summum du savoir-faire de New Balance. 
                 Chaque détail a été pensé pour offrir une esthétique luxueuse tout en garantissant une fonctionnalité optimale. 
                 Que ce soit la qualité des matériaux, la finesse des finitions, ou la robustesse de la structure, ce produit est conçu pour durer.
               </p>
